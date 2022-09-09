@@ -1,0 +1,2 @@
+RGB_MATRIX_ENABLE = no
+OLED_ENABLE = no
